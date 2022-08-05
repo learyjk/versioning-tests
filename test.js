@@ -1,2 +1,2 @@
-console.log("v0.1.0");
-// added tag
+console.log("v0.2.0");
+// moving to v0.2.0
